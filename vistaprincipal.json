@@ -1,0 +1,123 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+    
+    {
+      "imageBanner": "https://i.pinimg.com/236x/48/d9/cf/48d9cf66f2178ea9dc86c16ac7e75baf.jpg",
+      "column": 2,  
+      "layout": "bannerImage", 
+      "category": 95
+    },
+    {
+      "imageBanner": "https://instagram.fasu10-1.fna.fbcdn.net/v/t51.2885-15/e35/121451542_966664070484764_8144677665505504458_n.jpg?_nc_ht=instagram.fasu10-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=TLWmncZQNBgAX8sObti&tp=1&oh=cbb4316669d51ca8d6439e9d0e98d7b3&oe=5FF9D476",
+      "column": 2,  
+      "layout": "bannerImage", 
+      "category": 19
+    },
+    {
+      "imageBanner": "https://www.ughogar.com.py/wp-content/uploads/2020/12/aspe2-larg.png",
+      "layout": "bannerImage",
+      "height": 140,
+      "category": 22
+    },
+    {
+      "name": "Electrodomésticos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 93
+    },
+    {
+      "name": "Electrodomésticos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 69
+    },
+    {
+      "name": "Electrodomésticos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 68
+    },
+    {
+      "name": "Electrodomésticos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 67
+    },
+    {
+      "name": "Electrodomésticos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 73
+    },
+    {
+      "name": "Electrodomésticos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 92
+    },
+    {
+      "name": "Muebles",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 21
+    },
+    {
+      "name": "Muebles",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 36
+    },
+    {
+      "name": "Muebles",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 60
+    },
+    {
+      "name": "Muebles",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 57
+    },
+    {
+      "name": "Muebles",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 55
+    },
+    {
+      "name": "Oficina",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 24
+    },    
+    {
+      "name": "Decoraciones",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 22
+    },
+    {
+      "name": "Mesas",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 26
+    }, 
+    {
+      "name": "Living",
+      "image": "",
+      "layout": "threeColum",
+      "category": 25
+    }, 
+    {
+      "name": "Living",
+      "image": "",
+      "layout": "threeColum",
+      "category": 60
+    }
+  ],
+  "MainColor": "#3FC1BE"
+}
