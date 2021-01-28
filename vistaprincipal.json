@@ -4,18 +4,7 @@
       "layout": "circleCategory"
     },
     
-    {
-      "imageBanner": "https://i.pinimg.com/236x/48/d9/cf/48d9cf66f2178ea9dc86c16ac7e75baf.jpg",
-      "column": 2,  
-      "layout": "bannerImage", 
-      "category": 95
-    },
-    {
-      "imageBanner": "https://i.pinimg.com/236x/ea/31/9d/ea319d414fc4672379903825c44310de.jpg",
-      "column": 2,  
-      "layout": "bannerImage", 
-      "category": 19
-    },
+    
     {
       "imageBanner": "https://www.ughogar.com.py/wp-content/uploads/2020/12/aspe2-larg.png",
       "layout": "bannerImage",
