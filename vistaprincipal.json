@@ -16,29 +16,29 @@
       "category": 21
     },
     {
+      "name": "Mesas",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 26
+    }, 
+    {
       "name": "Roperos",
       "image": "",
       "layout": "twoColumn",
       "category": 36
     },
     {
+      "name": "Living",
+      "image": "",
+      "layout": "threeColum",
+      "category": 25
+    }, 
+    {
       "name": "Sillones",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 60
-    },
-    {
-      "name": "Muebles",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 57
-    },
-    {
-      "name": "Cunas",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 55
-    },
+    }, 
     {
       "name": "Oficina",
       "image": "",
@@ -52,23 +52,17 @@
       "category": 22
     },
     {
-      "name": "Mesas",
+      "name": "Cunas",
       "image": "",
       "layout": "twoColumn",
-      "category": 26
-    }, 
+      "category": 55
+    },
     {
-      "name": "Living",
+      "name": "Niños",
       "image": "",
-      "layout": "threeColum",
-      "category": 25
-    }, 
-    {
-      "name": "Living",
-      "image": "",
-      "layout": "threeColum",
-      "category": 60
-    }, 
+      "layout": "twoColumn",
+      "category": 57
+    },
     {
       "name": "Hornos",
       "image": "",
@@ -88,13 +82,13 @@
       "category": 68
     },
     {
-      "name": "Electrodomésticos",
+      "name": "Heladeras",
       "image": "",
       "layout": "twoColumn",
       "category": 67
     },
     {
-      "name": "Electrodomésticos",
+      "name": "Licuadoras",
       "image": "",
       "layout": "twoColumn",
       "category": 73
