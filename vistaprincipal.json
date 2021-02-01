@@ -40,18 +40,6 @@
       "category": 36
     },
     {
-      "name": "Oficina",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 24
-    },    
-    {
-      "name": "Decoraciones",
-      "image": "",
-      "layout": "threeColumn",
-      "category": 22
-    },
-    {
       "name": "Cunas",
       "image": "",
       "layout": "twoColumn",
@@ -62,6 +50,18 @@
       "image": "",
       "layout": "twoColumn",
       "category": 57
+    },
+    {
+      "name": "Oficina",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 24
+    },    
+    {
+      "name": "Decoraciones",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 22
     },
     {
       "name": "Hornos",
