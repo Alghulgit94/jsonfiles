@@ -10,42 +10,6 @@
       "category": 22
     },
     {
-      "name": "Hornos",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 93
-    },
-    {
-      "name": "Cocinas",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 69
-    },
-    {
-      "name": "Microondas",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 68
-    },
-    {
-      "name": "Electrodomésticos",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 67
-    },
-    {
-      "name": "Electrodomésticos",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 73
-    },
-    {
-      "name": "Electrodomésticos",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 92
-    },
-    {
       "name": "Muebles",
       "image": "",
       "layout": "threeColumn",
@@ -104,7 +68,43 @@
       "image": "",
       "layout": "threeColum",
       "category": 60
-    }
+    }, 
+    {
+      "name": "Hornos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 93
+    },
+    {
+      "name": "Cocinas",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 69
+    },
+    {
+      "name": "Microondas",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 68
+    },
+    {
+      "name": "Electrodomésticos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 67
+    },
+    {
+      "name": "Electrodomésticos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 73
+    },
+    {
+      "name": "Electrodomésticos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 92
+    },
   ],
   "MainColor": "#3FC1BE"
 }
