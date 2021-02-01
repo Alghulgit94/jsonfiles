@@ -10,7 +10,7 @@
       "category": 22
     },
     {
-      "name": "Roperos",
+      "name": "Muebles",
       "image": "",
       "layout": "threeColumn",
       "category": 21
@@ -22,7 +22,7 @@
       "category": 36
     },
     {
-      "name": "Muebles",
+      "name": "Sillones",
       "image": "",
       "layout": "twoColumn",
       "category": 60
@@ -34,7 +34,7 @@
       "category": 57
     },
     {
-      "name": "Muebles",
+      "name": "Cunas",
       "image": "",
       "layout": "twoColumn",
       "category": 55
