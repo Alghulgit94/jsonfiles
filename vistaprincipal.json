@@ -16,18 +16,6 @@
       "category": 21
     },
     {
-      "name": "Mesas",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 26
-    }, 
-    {
-      "name": "Roperos",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 36
-    },
-    {
       "name": "Living",
       "image": "",
       "layout": "threeColum",
@@ -39,6 +27,18 @@
       "layout": "threeColum",
       "category": 60
     }, 
+    {
+      "name": "Mesas",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 26
+    }, 
+    {
+      "name": "Roperos",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 36
+    },
     {
       "name": "Oficina",
       "image": "",
