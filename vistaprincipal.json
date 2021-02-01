@@ -99,12 +99,7 @@
       "layout": "twoColumn",
       "category": 73
     },
-    {
-      "name": "Electrodomésticos",
-      "image": "",
-      "layout": "twoColumn",
-      "category": 92
-    },
+    
   ],
   "MainColor": "#3FC1BE"
 }
