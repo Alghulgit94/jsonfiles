@@ -4,7 +4,7 @@
       "layout": "circleCategory"
     },    
     {
-      "imageBanner": "https://www.ughogar.com.py/wp-content/uploads/2021/02/PROMO-CUMPLEANOS-UG.jpg",
+      "imageBanner": "https://www.ughogar.com.py/wp-content/uploads/2021/02/banner-cumpleanos.png",
       "layout": "bannerImage",
       "height": 140,
       "category": 22
@@ -30,31 +30,31 @@
     {
       "name": "Mesas",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 26
     }, 
     {
       "name": "Roperos",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 36
     },
     {
       "name": "Cunas",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 55
     },
     {
       "name": "Niños",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 57
     },
     {
       "name": "Oficina",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 24
     },    
     {
@@ -66,31 +66,31 @@
     {
       "name": "Hornos",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 93
     },
     {
       "name": "Cocinas",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 69
     },
     {
       "name": "Microondas",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 68
     },
     {
       "name": "Heladeras",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 67
     },
     {
       "name": "Licuadoras",
       "image": "",
-      "layout": "twoColumn",
+      "layout": "threeColum",
       "category": 73
     }    
   ],
